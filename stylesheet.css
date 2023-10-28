@@ -1,0 +1,80 @@
+
+body {
+  width: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+hr {
+  color: red;
+  margin-top: 30px;
+}
+
+h1 {
+  color: lightsteelblue;
+  padding: auto;
+  font-family: luminari;
+  font-size: 100px;
+}
+
+
+h2 {
+  color: steelblue;
+  font-family: palatino;
+}
+
+h3 {
+  color: steelblue;
+}
+
+.rightcolumn {
+  margin-left: auto;
+  max-width: 180px;
+  border: whitesmoke;
+  background-color: whitesmoke;
+  padding-bottom: 32px;
+}
+
+
+p {
+  font-family: palatino;
+}
+
+
+.signup {
+  margin-right: auto;
+  margin-bottom: 25px;
+  max-width: 500px;
+  border: whitesmoke;
+  background-color: whitesmoke;
+  padding: 25px;
+}
+
+.gray {
+  background-color: whitesmoke;
+  border: whitesmoke;
+}
+
+a {
+  color: lightsteelblue;
+  font-family: palatino;
+}
+
+a:hover {
+  color: lightsteelblue;
+}
+
+a:visited {
+  color: slategray;
+}
+
+a:active {
+  color: steelblue;
+}
+
+#searchbox {
+  margin-left: auto;
+  max-width: 200px;
+}
